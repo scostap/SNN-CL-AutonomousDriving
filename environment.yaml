@@ -1,0 +1,14 @@
+name: snn-cl-env
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+  - nodefaults
+dependencies:
+  - pytorch
+  - torchvision
+  - torchaudio
+  - pytorch-cuda=12.4
+  - cuda-version=12.4
+  - snntorch
+  - jupyterlab
