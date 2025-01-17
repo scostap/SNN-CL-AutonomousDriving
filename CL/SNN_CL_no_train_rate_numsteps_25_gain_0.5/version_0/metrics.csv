@@ -1,0 +1,2 @@
+epoch,step,test_loss/dataloader_idx_0,test_loss/dataloader_idx_1
+0,0,2.3825747966766357,2.5177173614501953
