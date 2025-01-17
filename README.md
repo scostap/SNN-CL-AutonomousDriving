@@ -3,6 +3,10 @@
 ## Overview
 This repository contains the code and data generated during the realization of a Master's Final Project for the Master's Degree in Data Science at Universitat Oberta de Catalunya. The project focuses on the application of Spiking Neural Networks (SNNs) and Continual Learning (CL) in the context of autonomous driving. It represents cutting-edge research in deep learning and neuromorphic computing, aiming to advance sustainable and energy-efficient artificial intelligence solutions.
 
+**Title**: Application of Spiking Neural Networks and Continual Learning in Autonomous Driving
+**Author**: Sergio Costa Planells
+**Supervisor**: Raúl Parada Medina  
+
 ## Repository Content
 The repository is organized as follows:
 
